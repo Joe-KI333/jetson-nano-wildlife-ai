@@ -1,6 +1,3 @@
-Sure! Here's a concise and professional **README.md** for your GitHub project:
-
----
 
 # 🦌 Wildlife Detection & Poaching Prevention System
 
@@ -31,7 +28,7 @@ An **AI & IoT-based real-time wildlife monitoring system** developed using **YOL
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Joe-KI333/jetson-nano-wildlife-ai
    ```
 2. Install dependencies:
    ```bash
