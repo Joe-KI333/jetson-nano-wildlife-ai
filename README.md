@@ -1,6 +1,3 @@
-Here’s your updated **README.md** with a section to display images (such as screenshots or output examples) after the `app.py` line for better project visualization:
-
----
 
 # 🦌 Wildlife Detection & Poaching Prevention System
 
